@@ -1,0 +1,29 @@
+main{
+	width: 60%;
+	margin: 0 auto;
+}
+footer {
+	width: 60%;
+	margin: 0 auto;
+	text-align: right;
+}
+p {
+	font-size: 16px;
+}
+.bold{
+	font-weight: bold;
+	font-size: 18px;
+}
+h2{
+	text-align: center;
+}
+
+body {
+    background: #c7b39b url(image/background.jpg); 
+    background-repeat: round;
+}
+.fig{
+	float: right; 
+    padding-left: 10px; 
+    padding-bottom: 10px;
+}
